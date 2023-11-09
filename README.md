@@ -8,7 +8,7 @@
 ### 🔭 What I'm Up To
 - Crafting code spells ✨
 - Making the cloud less cloudy ☁️
-- Teaching my cat Git commands 🐱
+- Teaching my dog Git commands 🐱
 
 ### 🌱 Currently Learning
 - The art of debugging without coffee spills ☕
