@@ -34,6 +34,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  <p>Feel free to explore my repositories, and remember: A bug in the code is worth two in the documentation! 🐛📖</p>
+  <p>A bug in the code is worth two in the documentation! 🐛📖</p>
   <img src="https://your-animated-gif-url.com/your-animated-gif.gif" alt="Coding GIF" width="400"/>
 </div>
