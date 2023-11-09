@@ -12,8 +12,9 @@
 
 ### 🌱 Currently Learning
 - The art of debugging without coffee spills ☕
-- [Advanced Technology/Framework 1]
-- [Advanced Technology/Framework 2]
+- [DevOps]
+- [Web Development]
+- [AWS]
 
 ### 👯‍♂️ Open for Collaboration On
 - Open source projects
