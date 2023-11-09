@@ -2,7 +2,7 @@
   <img src="https://your-image-url.com/your-image.png" alt="Aditya Chavan" width="200"/>
   <h1>👋 Hey, I'm Aditya Chavan!</h1>
   <p>Web Dev/ DevOps/ Cloud Enthusiast 🏝️</p>
-  <p>I'm a DevOps enthusiast, Cloud Dreamer, and Web Wizard who believes that one day, AI will understand my cat's meows. When not pushing code, you can catch me chasing bugs or capturing the perfect shot with my camera.</p>
+  <p>I'm a DevOps enthusiast, Cloud Dreamer, and Web Wizard who believes that one day, AI will translate my cat's meows. When not pushing code, you can catch me chasing bugs or capturing the perfect shot with my camera.</p>
 </div>
 
 ### 🔭 What I'm Up To
