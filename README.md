@@ -24,6 +24,7 @@ technologies. This proactive approach exemplifies my commitment to staying up to
 ### 📫 How to Reach Me
 - Connect on [LinkedIn](https://www.linkedin.com/in/adityachavan27) for professional discussions
 - Follow me on [Twitter](https://twitter.com/moodyadii) for cricket-related discussions and cat humor
+- Visit my [Personal Website](https://adityachavan.xyz) for more information
 - Send an email to adityachavan7@outlook.com, but only if it's written in emoji code 📧🤖
 
 ### ⚡ Fun Fact
