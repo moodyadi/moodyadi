@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://adityachavan.xyz/" alt="Aditya Chavan" width="200"/>
+  <img src="<a href="https://ibb.co/wpBnbzh"><img src="https://i.ibb.co/wpBnbzh/IMG-20230922-015211355-processed-01-01.jpg" alt="IMG-20230922-015211355-processed-01-01" border="0"></a>" alt="Aditya Chavan" width="200"/>
   <h1>👋 Hey, I'm Aditya Chavan!</h1>
   <p>DevOps | AWS Certified | Cloud Enthusiast 🏝️</p>
   <p>Devops & Infrastructure Engineer with 1 year & 10 months of experience in DevOps tools-, AWS Cloud,
