@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Aditya Chavan" width="200"/>
+  <img src="https://adityachavan.xyz/" alt="Aditya Chavan" width="200"/>
   <h1>👋 Hey, I'm Aditya Chavan!</h1>
   <p>DevOps | AWS Certified | Cloud Enthusiast 🏝️</p>
   <p>Devops & Infrastructure Engineer with 1 year & 10 months of experience in DevOps tools-, AWS Cloud,
