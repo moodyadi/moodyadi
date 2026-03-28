@@ -2,8 +2,7 @@
   <img src="<a href="https://ibb.co/wpBnbzh"><img src="https://i.ibb.co/wpBnbzh/IMG-20230922-015211355-processed-01-01.jpg" alt="IMG-20230922-015211355-processed-01-01" border="0" alt="Aditya Chavan" width="200"/> </a>
   <h1>👋 Hey, I'm Aditya Chavan!</h1>
   <p>DevOps | AWS Certified | Cloud Enthusiast 🏝️</p>
-  <p>Devops & Infrastructure Engineer with 1 year & 10 months of experience in DevOps tools-, AWS Cloud,
-Middleware & Environment Management. Hands on experience in CI/CD pipelines using Udeploy, Ansible,
+  <p>Devops & QA Automation Engineer with 4 years of experience in DevOps tools-, AWS Cloud, QA automation for API testing in PlayWright framework, Middleware & Environment Management. Hands on experience in CI/CD pipelines using Udeploy, Ansible,
 GitHub, Jenkins, and Apache. Foundational knowledge in REACT for front-end UI and Node.js for back-end
 middleware. Completed certification for AWS Certified Cloud Practitioner, solidifying my expertise in cloud
 technologies. Furthermore, I proactively learn, explore and deepen my understanding of cutting-edge
